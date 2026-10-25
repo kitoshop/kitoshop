@@ -1,0 +1,1 @@
+KITO V16: Korean /ko/ added, Korean privacy and in-store sales policies, 7-language navigation and hreflang/sitemap. Arrow icons use inline SVG (no emoji glyphs). Default root remains Vietnamese. Upload all extracted files to GitHub Pages publishing root.
